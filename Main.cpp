@@ -1,3 +1,5 @@
+/* Aidan Braulio
+   CS211*/
 #include <iostream>
 #include <vector>
 #include "Dog.h"
