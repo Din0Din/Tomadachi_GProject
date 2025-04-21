@@ -1,4 +1,6 @@
-// Header file that includes the Pet header file and creates two new functions
+/* Aidan Braulio
+   CS211
+Header file that includes the Pet header file and creates two new functions*/
 #ifndef FILEHANDLER_H
 #define FILEHANDLER_H
 
