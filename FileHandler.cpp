@@ -1,6 +1,6 @@
 /* Aidan Braulio
-   CS211*/
-// Header file that includes the FileHandler and Dog header files and specifies what the functions in FileHandler.h do
+   CS211
+Header file that includes the FileHandler and Dog header files and specifies what the functions in FileHandler.h do*/
 #include "FileHandler.h"
 #include "Dog.h"
 #include <fstream>
